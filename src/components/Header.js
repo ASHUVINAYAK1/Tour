@@ -4,7 +4,7 @@ const Header = ()=>{
         <div className="container">
             <div className="title">
                 
-            Plan a Tour
+            IRCTC TOURS
 
             </div>
         </div>
