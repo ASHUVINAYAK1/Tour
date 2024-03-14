@@ -5,7 +5,6 @@ const Header = ()=>{
             <div className="title">
                 
             IRCTC TOURS
-
             </div>
         </div>
     )
